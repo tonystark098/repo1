@@ -1,0 +1,3 @@
+[submodule "app/cc/repo2"]
+	path = app/cc/repo2
+	url = https://github.com/tonystark098/repo2.git
